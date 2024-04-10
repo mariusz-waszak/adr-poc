@@ -1,0 +1,6 @@
+# ADR for Process ADR
+
+Here goes a content ...
+Probably it's good to have some templates for ADRs
+
+...
